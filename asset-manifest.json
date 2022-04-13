@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auto-deploy/static/css/main.e6c13ad2.css",
+    "main.js": "/auto-deploy/static/js/main.ab8d6967.js",
+    "index.html": "/auto-deploy/index.html",
+    "main.e6c13ad2.css.map": "/auto-deploy/static/css/main.e6c13ad2.css.map",
+    "main.ab8d6967.js.map": "/auto-deploy/static/js/main.ab8d6967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ab8d6967.js"
+  ]
+}
